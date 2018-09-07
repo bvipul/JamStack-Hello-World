@@ -1,0 +1,15 @@
+div.socialLinks a {
+    margin-right: 5px;
+}
+
+a.twitter {
+    color: #1DA1F2;
+}
+
+a.github {
+    color: #000;
+}
+
+a.medium {
+    color: #3cb371;
+}
